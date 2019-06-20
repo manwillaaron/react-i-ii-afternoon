@@ -1,0 +1,19 @@
+.Header-bluebar---Component{
+    width: 100%;
+    height: 15vh;
+    background: #00BFFF;
+   display: flex;
+   align-content: center;
+}
+
+.homeBtn---Component{
+    border: none;
+    height: 50%;
+    background: #00BFFF;
+    font-size: 20px;
+    display: flex;
+    align-content: center;
+    margin:24px 60px;
+    text-decoration-style: double;
+    
+}
